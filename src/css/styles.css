@@ -30,7 +30,7 @@ header {
 
 .linki {
     padding: 3%;
-    font-size:xx-large
+    font-size:xx-large;
 }
 
 #ofertas {
@@ -109,8 +109,10 @@ hr {
 #bianca {
     border-radius: 30px;
     margin-bottom: 10px;
+}
+
 .galeriadevinhos {
-    margin-left: 10%
+    margin-left: 10%;
 }
 
 .titulovinhos {
